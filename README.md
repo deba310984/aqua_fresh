@@ -1,7 +1,7 @@
 
-  # Aqua Fresh
+  # HZ Aqua Fresh
 
-  Welcome to the Aqua Fresh website.
+  Welcome to the HZ Aqua Fresh website.
 
   ## Running the code
 

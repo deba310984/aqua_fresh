@@ -33,7 +33,7 @@ export function WhyChooseUs() {
               border: "1px solid rgba(0,201,228,0.25)",
             }}
           >
-            🏆 Why Aqua Fresh
+            🏆 Why HZ Aqua Fresh
           </span>
           <h2
             style={{
@@ -44,7 +44,7 @@ export function WhyChooseUs() {
             }}
           >
             Why Choose{" "}
-            <span style={{ color: "#00C9E4" }}>Aqua Fresh?</span>
+            <span style={{ color: "#00C9E4" }}>HZ Aqua Fresh?</span>
           </h2>
         </div>
 

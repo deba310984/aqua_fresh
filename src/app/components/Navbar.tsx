@@ -82,7 +82,7 @@ export function Navbar() {
                   lineHeight: 1.1,
                 }}
               >
-                Aqua Fresh
+                HZ Aqua Fresh
               </div>
               <div
                 style={{

@@ -160,7 +160,7 @@ export function CoverageArea() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Aqua Fresh Delivery Area — Bailey Road, Patna"
+              title="HZ Aqua Fresh Delivery Area — Bailey Road, Patna"
             />
           </div>
 

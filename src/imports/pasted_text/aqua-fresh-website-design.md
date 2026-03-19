@@ -1,10 +1,10 @@
 Design a clean, fresh, and trustworthy water supply business 
-website for "Aqua Fresh Water Supply" located on Bailey Road, 
+website for "HZ Aqua Fresh Water Supply" located on Bailey Road, 
 Patna, Bihar. The business supplies purified drinking water 
 jars/cans, water dispensers, and offers home & office delivery.
 
 — BRAND IDENTITY —
-Business Name: Aqua Fresh Water Supply
+Business Name: HZ Aqua Fresh Water Supply
 Tagline: "Pure Water. Delivered to Your Door."
 Location: Bailey Road, Patna, Bihar
 Services: 20L Jar Delivery, Office Water Supply, 
@@ -33,7 +33,7 @@ Style:
 — PAGES / SECTIONS (Single Page Scroll) —
 
 1. NAVBAR
-   - Logo: Water droplet icon + "Aqua Fresh" bold wordmark
+  - Logo: Water droplet icon + "HZ Aqua Fresh" bold wordmark
    - Links: Home | Products | Services | About | Contact
    - Right CTA: "Order Now" button — aqua filled, pill shape
    - Sticky on scroll with frosted glass blur effect
@@ -85,7 +85,7 @@ Style:
    - Each card: icon + title + one line description
    - Aqua glow border on hover
 
-7. WHY CHOOSE AQUA FRESH
+7. WHY CHOOSE HZ AQUA FRESH
    - White background, 2-column layout
    - Left: Large water jar photo with water splash effect
    - Right: Checklist of benefits
@@ -131,7 +131,7 @@ Style:
     - Quick links
     - Service areas list
     - Social: Facebook | WhatsApp | Instagram
-    - © 2025 Aqua Fresh Water Supply, Bailey Road, Patna
+    - © 2025 HZ Aqua Fresh Water Supply, Bailey Road, Patna
 
 — COMPONENTS TO DESIGN —
 - Sticky frosted navbar

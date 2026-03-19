@@ -79,7 +79,7 @@ export function Footer() {
                     lineHeight: 1.1,
                   }}
                 >
-                  Aqua Fresh
+                  HZ Aqua Fresh
                 </div>
                 <div
                   style={{
@@ -299,7 +299,7 @@ export function Footer() {
           }}
         >
           <p style={{ color: "rgba(255,255,255,0.35)", fontSize: "0.8rem" }}>
-            © 2025 Aqua Fresh Water Supply · Bailey Road, Patna, Bihar · All rights reserved.
+            © 2025 HZ Aqua Fresh Water Supply · Bailey Road, Patna, Bihar · All rights reserved.
           </p>
           <p style={{ color: "rgba(255,255,255,0.25)", fontSize: "0.78rem" }}>
             Made with 💧 for pure hydration

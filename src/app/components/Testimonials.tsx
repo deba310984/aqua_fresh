@@ -4,7 +4,7 @@ const TESTIMONIALS = [
     area: "Bailey Road",
     rating: 5,
     review:
-      "Aqua Fresh has been delivering to my home for over 2 years now. Never missed a single day. The water quality is excellent — pure, odour-free. Highly recommended!",
+      "HZ Aqua Fresh has been delivering to my home for over 2 years now. Never missed a single day. The water quality is excellent — pure, odour-free. Highly recommended!",
     initials: "RK",
     avatarBg: "#003F6B",
   },
@@ -13,7 +13,7 @@ const TESTIMONIALS = [
     area: "Rajendra Nagar",
     rating: 5,
     review:
-      "We switched from bottled water to Aqua Fresh for our office. The dispenser rental service is great and the staff is extremely professional. Cost-effective and reliable.",
+      "We switched from bottled water to HZ Aqua Fresh for our office. The dispenser rental service is great and the staff is extremely professional. Cost-effective and reliable.",
     initials: "PS",
     avatarBg: "#00C9E4",
   },
